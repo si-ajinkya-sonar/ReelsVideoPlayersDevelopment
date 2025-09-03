@@ -11,7 +11,7 @@ import SDUIRenderer
 class SplashViewModel: ObservableObject {
     
     func updateSchema() async -> Bool {
-        guard let response = Utilities.loadJson(from: "sdui-schema", as: SDUIGenericComposition.self) else {
+        guard let response = Utilities.loadJson(from: "sduischema", as: SDUIGenericComposition.self) else {
             return false
         }
         let resetSuccess = await withCheckedContinuation { continuation in
