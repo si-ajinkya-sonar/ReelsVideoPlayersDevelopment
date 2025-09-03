@@ -1,0 +1,487 @@
+{
+    "id": "page_news_listing",
+    "page_type": "home",
+    "device": "mobile",
+    "screen_name": "News",
+    "force_back": "",
+    "theme": {
+        "main_theme": "40b949f1-5800-4025-8395-ed22bd52ccc6",
+        "micro_theme": ""
+    },
+    "meta": {
+        "language": "en",
+        "keywords": "",
+        "meta_desc": "Rajasthan Royals (RR), an IPL 2008 winner and CLT20 2013 runners up team. Get RR match updates, IPL news, videos, photos, merchandise, players information & more here.",
+        "browser_title": "Rajasthan Royals",
+        "canonical_url": "https://stg-rr.sportz.io/",
+        "json_ld_data": {
+            "schemas": [
+                "{\"url\":\"https://www.rajasthanroyals.com/\",\"logo\":\" https://www.rajasthanroyals.com/static-assets/images/svg/logo.svg?v=5.11\",\"name\":\"Rajasthan Royals\",\"@type\":\"Organization\",\"sameAs\":[\"https://www.facebook.com/RajasthanRoyals/\",\"https://twitter.com/rajasthanroyals\",\"https://www.instagram.com/rajasthanroyals/?hl=en\",\"https://www.youtube.com/channel/UCkpgyRmcNy-aZFLUkKkWK4w\",\"https://www.linkedin.com/company/rajasthanroyals\",\"https://en.wikipedia.org/wiki/Rajasthan_Royals\",\"https://play.google.com/store/apps/details?id=com.rajasthanroyals.app\"],\"@context\":\"https://schema.org\",\"alternateName\":\"RR\"}",
+                "{\"url\":\"https://www.rajasthanroyalsnews-listing-page-mobile.com/\",\"logo\":\"https://www.rajasthanroyals.com/static-assets/images/cssimages/static/rr-new.png?v=5.32\",\"name\":\"Rajasthan Royals\",\"@type\":\"SportsTeam\",\"sameAs\":[\"https://twitter.com/rajasthanroyals\",\"https://www.instagram.com/rajasthanroyals/?hl=en\",\"https://www.facebook.com/RajasthanRoyals/\",\"https://www.linkedin.com/company/rajasthanroyals\",\"https://www.youtube.com/channel/UCkpgyRmcNy-aZFLUkKkWK4w\"],\"@context\":\"https://schema.org\"}"
+            ]
+        },
+        "twitter": {
+            "card": "summary_large_image",
+            "title": "Rajasthan Royals - IPL 2025 Team - RR Match Score, Squad, News & More",
+            "description": "Rajasthan Royals (RR), an IPL 2008 winner and CLT20 2013 runners up team. Get RR match updates, IPL news, videos, photos, merchandise, players information & more here.",
+            "image": "https://stg-rr.sportz.io/static-assets/images/default-social-share.jpeg?v=1.42",
+            "url": "https://stg-rr.sportz.io/"
+        },
+        "og": {
+            "site_name": "Rajasthan Royals",
+            "type": "website",
+            "title": "Rajasthan Royals - IPL 2025 Team - RR Match Score, Squad, News & More",
+            "content": "Rajasthan Royals (RR), an IPL 2008 winner and CLT20 2013 runners up team. Get RR match updates, IPL news, videos, photos, merchandise, players information & more here.",
+            "url": "https://stg-rr.sportz.io/",
+            "image": "https://stg-rr.sportz.io/static-assets/images/default-social-share.jpeg?v=1.42",
+            "image_alt": "Rajasthan Royals (RR), an IPL 2008 winner and CLT20 2013 runners up team. Get RR match updates, IPL news, videos, photos, merchandise, players information & more here."
+        },
+        "essentials": {
+            "charset": "utf-8",
+            "viewport": "width=device-width, initial-scale=1,maximum-scale=1,viewport-fit=cover"
+        },
+        "csp": {
+            "content": "default-src 'self';"
+        },
+        "app": {
+            "fb_app_id": "291064039479137",
+            "apple_itunes_app": "app-id=1460354209",
+            "ios_url": "https://stg-rr.sportz.io/",
+            "app_store_id": "1460354209",
+            "ios_app_name": "Rajasthan Royals",
+            "android_url": "https://stg-rr.sportz.io/",
+            "android_package": "com.rajasthanroyals.app",
+            "android_app_name": "Rajasthan Royals"
+        },
+        "icons_and_manifest": {
+            "apple_touch_icon": {
+                "sizes": "180x180",
+                "href": "/static-assets/favicons/apple-touch-icon.png?v=1.42"
+            },
+            "icon": [
+                {
+                    "rel": "icon",
+                    "type": "image/png",
+                    "sizes": "16x16",
+                    "href": "/static-assets/favicons/favicon-16x16.png?v=1.42"
+                },
+                {
+                    "rel": "icon",
+                    "type": "image/png",
+                    "sizes": "32x32",
+                    "href": "/static-assets/favicons/favicon-32x32.png?v=1.42"
+                }
+            ],
+            "manifest": "/static-assets/favicons/site.webmanifest?v=1.42",
+            "mask_icon": {
+                "href": "/static-assets/favicons/safari-pinned-tab.svg?v=1.42",
+                "color": "#e50695"
+            },
+            "shortcut_icon": {
+                "href": "/static-assets/favicons/favicon.ico?v=1.42"
+            }
+        },
+        "tags": []
+    },
+    "templates": [
+        {
+            "id": "template_04548f10-76a8-4210-a5de-91d24a54122b",
+            "template_type": "news",
+            "content_type": "news",
+            "properties": {
+                "is_full_width": true,
+                "stack": "v",
+                "column_span": 4,
+                "row_span": 0,
+                "layout_type": "vertical_paging"
+            },
+            "styles": {
+                "background_color": "",
+                "background_image": "",
+                "gap": "",
+                "padding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            "data": {
+                "title": "News",
+                "sub_title": "",
+                "cta": {
+                    "view_more": []
+                },
+                "toggle": {},
+                "filters": {},
+                "items": [
+                    {
+                        "asset_id": 581,
+                        "title": "Road to the IPL 2024 final - LSG’s full list of fixtures out!",
+                        "desc": "xyz",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/news/road-to-the-ipl-2024-final---lsgs-full-list-of-fixtures-out",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/6a/e4/d8/16-9/wPKnE9TT2j.jpg",
+                        "share_url": "https://stg-lsg.sportz.io/news/road-to-the-ipl-2024-final---lsgs-full-list-of-fixtures-out-1",
+                        "created_date": "2024-03-26T01:19+00:00",
+                        "published_date": "2024-03-26T01:16+00:00",
+                        "author": "Admin",
+                        "duration": "2 mins read",
+                        "asset_count": 0,
+                        "asset_type_id": 1,
+                        "entities": {
+                            "primary": {
+                                "name": "2024",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/seasons/seasonthree",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "News",
+                                "canonical": "https://stg-lsg.sportz.io/news",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 481,
+                        "title": "Powerhouse Super Giants Jolt Sunrisers!",
+                        "desc": "Chasing 182 on a challenging surface, Lucknow Super Giants were playing catch-up for the most part.",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/news/powerhouse-super-giants-jolt-sunrisers",
+                        "share_url": "https://stg-lsg.sportz.io/news/powerhouse-super-giants-jolt-sunrisers-1",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/38/93/cd/4-3/R22YyQzTCA.jpg",
+                        "created_date": "2024-02-08T08:34+00:00",
+                        "published_date": "2024-02-29T14:29+00:00",
+                        "author": "WebTeam",
+                        "duration": "2 mins read",
+                        "asset_count": 0,
+                        "asset_type_id": 1,
+                        "entities": {
+                            "primary": {
+                                "name": "report",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/categories/report",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "News",
+                                "canonical": "https://stg-lsg.sportz.io/news",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 521,
+                        "title": "LSG 10K Lucknow: Run with LSG, Run for a Greener Lucknow - how to register and FAQs",
+                        "desc": "The LSG 10K Lucknow will flag off from the iconic 1090 Chauraha on March 17. Register now and run for a greener Lucknow!",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/news/lsg-10k-lucknow-run-with-lsg-run-for-a-greener-lucknow---how-to-register-and-faqs",
+                        "share_url": "https://stg-lsg.sportz.io/news/lsg-10k-lucknow-run-with-lsg-run-for-a-greener-lucknow---how-to-register-and-faqs-1",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/a5/af/e3/4-3/ONWPKJdqVL.png",
+                        "created_date": "2024-02-28T02:05+00:00",
+                        "published_date": "2024-02-28T01:54+00:00",
+                        "author": "Admin",
+                        "duration": "2 mins read",
+                        "asset_count": 0,
+                        "asset_type_id": 1,
+                        "entities": {
+                            "primary": {
+                                "name": "Features",
+                                "canonical": "https://stg-lsg.sportz.io/features",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "News",
+                                "canonical": "https://stg-lsg.sportz.io/news",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 461,
+                        "title": "Stoinis, bowlers combine to lead LSG to a crucial win over MI",
+                        "desc": "Lucknow Super Giants clinched a last-over thriller against five-time champions Mumbai Indians at the BRSABV Ekana Stadium on Tuesday to exponentially boost their chances of making it to the Indian Premier League (IPL) 2023 playoffs.",
+                        "share_url": "https://stg-lsg.sportz.io/news/stoinis-bowlers-combine-to-lead-lsg-to-a-crucial-win-over-mi-1",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/news/stoinis-bowlers-combine-to-lead-lsg-to-a-crucial-win-over-mi",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/95/c8/0b/4-3/XuNSa3Kw0D.jpg",
+                        "created_date": "2024-02-08T08:31+00:00",
+                        "published_date": "2024-02-08T08:29:00+00:00",
+                        "author": "WebTeam",
+                        "duration": "2 mins read",
+                        "asset_count": 0,
+                        "asset_type_id": 1,
+                        "entities": {
+                            "primary": {
+                                "name": "bts",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/categories/bts",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "News",
+                                "canonical": "https://stg-lsg.sportz.io/news",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 441,
+                        "title": "Super Giants Look To Seal The Playoff Spot Against Knight Riders",
+                        "desc": "The math is simple. A win for Lucknow Super Giants over two-time champions Kolkata Knight Riders would be enough to seal a place in the Indian Premier League (IPL) 2023 playoffs.",
+                        "share_url": "https://stg-lsg.sportz.io/news/super-giants-look-to-seal-the-playoff-spot-against-knight-riders-1",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/news/super-giants-look-to-seal-the-playoff-spot-against-knight-riders",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/87/65/fd/4-3/m5NCwr7Ltv.jpg",
+                        "created_date": "2024-02-08T08:28+00:00",
+                        "published_date": "2024-02-08T08:25+00:00",
+                        "author": "WebTeam",
+                        "duration": "2 mins read",
+                        "asset_count": 0,
+                        "asset_type_id": 1,
+                        "entities": {
+                            "primary": {
+                                "name": "preview",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/categories/preview",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "News",
+                                "canonical": "https://stg-lsg.sportz.io/news",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 421,
+                        "title": "Super Giants Pip Knight Riders To March Into IPL Playoffs",
+                        "desc": "Kolkata Knight Riders’ Rinku Singh battled hard but a Nicholas Pooran storm before the choke applied by Lucknow Super Giants’ spinners helped LSG clinch the thriller by one run and make it to the back-to-back playoffs in the Indian Premier League (IPL).",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/news/super-giants-pip-knight-riders-to-march-into-ipl-playoffs",
+                        "share_url": "https://stg-lsg.sportz.io/news/super-giants-pip-knight-riders-to-march-into-ipl-playoffs-1",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/97/af/07/4-3/SL61Vrduxo.jpg",
+                        "created_date": "2024-02-08T08:25+00:00",
+                        "published_date": "2024-02-08T08:23:00+00:00",
+                        "author": "WebTeam",
+                        "duration": "2 mins read",
+                        "asset_count": 0,
+                        "asset_type_id": 1,
+                        "entities": {
+                            "primary": {
+                                "name": "report",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/categories/report",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "News",
+                                "canonical": "https://stg-lsg.sportz.io/news",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 401,
+                        "title": "IPL Playoffs Take 2: Comeback Heroes Lucknow Super Giants Take On Seasoned Mumbai Indians",
+                        "share_url": "https://stg-lsg.sportz.io/news/ipl-playoffs-take-2-comeback-heroes-lucknow-super-giants-take-on-seasoned-mumbai-indians-1",
+                        "desc": "Lucknow Super Giants are back where they were last year - the Eliminator.",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/news/ipl-playoffs-take-2-comeback-heroes-lucknow-super-giants-take-on-seasoned-mumbai-indians",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/1d/e0/ab/4-3/GbDyBFWjbd.jpg",
+                        "created_date": "2024-02-08T08:21+00:00",
+                        "published_date": "2024-02-08T08:18+00:00",
+                        "author": "WebTeam",
+                        "duration": "2 mins read",
+                        "asset_count": 0,
+                        "asset_type_id": 1,
+                        "entities": {
+                            "primary": {
+                                "name": "Features",
+                                "canonical": "https://stg-lsg.sportz.io/features",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "News",
+                                "canonical": "https://stg-lsg.sportz.io/news",
+                                "is_linkable": true
+                            }
+                        }
+                    }
+                ],
+                "pagination": {
+                    "pagination_type": "button_based",
+                    "load_more_count": "10",
+                    "label": "Load More",
+                    "api": "https://stg-lsg.sportz.io/content-engine/v1/resources?template_id=88528b7c-7d7d-4ef9-ab51-e0a655e94ea7-news-listing&platform=web&deviceType=mobile&entities={{ENTITIES}}&page={{PAGE}}&limit=10",
+                    "max_pages": 2,
+                    "total_assets": 20,
+                    "offset": 10,
+                    "next": 2
+                }
+            },
+            "composition": {
+                "header": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "spacing_5",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": [
+                            {
+                                "component_type": "organism",
+                                "id": "",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            }
+                        ]
+                    }
+                },
+                "body": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "spacing_4",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": [
+                            {
+                                "component_type": "organism",
+                                "id": "news-firstlist-parent-a45e6c68-36b5-400e-8d6c-0356f7a5a05f",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "news-secondlist-parent-35204904-3388-4efe-b9ed-b00b18aed890",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "news-secondlist-parent-35204904-3388-4efe-b9ed-b00b18aed890",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "news-secondlist-parent-35204904-3388-4efe-b9ed-b00b18aed890",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "news-secondlist-parent-35204904-3388-4efe-b9ed-b00b18aed890",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "news-secondlist-parent-35204904-3388-4efe-b9ed-b00b18aed890",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "news-secondlist-parent-35204904-3388-4efe-b9ed-b00b18aed890",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            }
+                        ],
+                        "paginated_items": [
+                            {
+                                "component_type": "organism",
+                                "id": "news-secondlist-parent-35204904-3388-4efe-b9ed-b00b18aed890",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            }
+                        ],
+                        "carousel": {
+                            "slides_per_view": 1,
+                            "nav_arrows": {
+                                "visibility": false,
+                                "variant": "1",
+                                "sub_variant": "nearby",
+                                "position": "bottom_trailing",
+                                "enabled_color": "button_filled_primary_background_default",
+                                "disabled_color": "button_filled_secondary_text_default"
+                            },
+                            "nav_indicator": {
+                                "visibility": true,
+                                "enabled_color": "background_sec_surface",
+                                "disabled_color": "background_invert_surface",
+                                "variant": "1",
+                                "sub_variant": "rounded",
+                                "stack": "h",
+                                "position": "bottom",
+                                "offset": -16
+                            },
+                            "space_between": "10",
+                            "autoplay": true,
+                            "autoplay_interval": 5000,
+                            "loop": true,
+                            "direction": "horizontal",
+                            "free_mode": false
+                        }
+                    },
+                    "injection": {},
+                    "preview": {
+                        "items": [],
+                        "carousel": {}
+                    }
+                },
+                "footer": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": []
+                    }
+                }
+            },
+            "tags": [
+                "has_filters"
+            ],
+            "data_fetcher": {
+                "api": "https://stg-sg.sportz.io/apiv4/listing?entities=1,4&otherent=&exclent=&pgnum=1&inum=7&pgsize=7",
+                "image_ratio": [
+                    "16-9",
+                    "4-3",
+                    "4-3",
+                    "4-3",
+                    "4-3",
+                    "4-3",
+                    "4-3"
+                ]
+            }
+        }
+    ]
+}

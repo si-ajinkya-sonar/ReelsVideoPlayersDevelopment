@@ -1,0 +1,394 @@
+{
+    "id": "page_photos_listing",
+    "page_type": "home",
+    "device": "mobile",
+    "screen_name": "Photos",
+    "force_back": "",
+    "theme": {
+        "main_theme": "40b949f1-5800-4025-8395-ed22bd52ccc6",
+        "micro_theme": ""
+    },
+    "meta": {
+        "language": "en",
+        "keywords": "",
+        "meta_desc": "Rajasthan Royals (RR), an IPL 2008 winner and CLT20 2013 runners up team. Get RR match updates, IPL Photos, videos, photos, merchandise, players information & more here.",
+        "browser_title": "Rajasthan Royals",
+        "canonical_url": "https://stg-rr.sportz.io/",
+        "json_ld_data": {
+            "schemas": [
+                "{\"url\":\"https://www.rajasthanroyals.com/\",\"logo\":\" https://www.rajasthanroyals.com/static-assets/images/svg/logo.svg?v=5.11\",\"name\":\"Rajasthan Royals\",\"@type\":\"Organization\",\"sameAs\":[\"https://www.facebook.com/RajasthanRoyals/\",\"https://twitter.com/rajasthanroyals\",\"https://www.instagram.com/rajasthanroyals/?hl=en\",\"https://www.youtube.com/channel/UCkpgyRmcNy-aZFLUkKkWK4w\",\"https://www.linkedin.com/company/rajasthanroyals\",\"https://en.wikipedia.org/wiki/Rajasthan_Royals\",\"https://play.google.com/store/apps/details?id=com.rajasthanroyals.app\"],\"@context\":\"https://schema.org\",\"alternateName\":\"RR\"}",
+                "{\"url\":\"https://www.rajasthanroyals.com/\",\"logo\":\"https://www.rajasthanroyals.com/static-assets/images/cssimages/static/rr-new.png?v=5.32\",\"name\":\"Rajasthan Royals\",\"@type\":\"SportsTeam\",\"sameAs\":[\"https://twitter.com/rajasthanroyals\",\"https://www.instagram.com/rajasthanroyals/?hl=en\",\"https://www.facebook.com/RajasthanRoyals/\",\"https://www.linkedin.com/company/rajasthanroyals\",\"https://www.youtube.com/channel/UCkpgyRmcNy-aZFLUkKkWK4w\"],\"@context\":\"https://schema.org\"}"
+            ]
+        },
+        "twitter": {
+            "card": "summary_large_image",
+            "title": "Rajasthan Royals - IPL 2025 Team - RR Match Score, Squad, Photos & More",
+            "description": "Rajasthan Royals (RR), an IPL 2008 winner and CLT20 2013 runners up team. Get RR match updates, IPL Photos, videos, photos, merchandise, players information & more here.",
+            "image": "https://stg-rr.sportz.io/static-assets/images/default-social-share.jpeg?v=1.42",
+            "url": "https://stg-rr.sportz.io/"
+        },
+        "og": {
+            "site_name": "Rajasthan Royals",
+            "type": "website",
+            "title": "Rajasthan Royals - IPL 2025 Team - RR Match Score, Squad, Photos & More",
+            "content": "Rajasthan Royals (RR), an IPL 2008 winner and CLT20 2013 runners up team. Get RR match updates, IPL Photos, videos, photos, merchandise, players information & more here.",
+            "url": "https://stg-rr.sportz.io/",
+            "image": "https://stg-rr.sportz.io/static-assets/images/default-social-share.jpeg?v=1.42",
+            "image_alt": "Rajasthan Royals (RR), an IPL 2008 winner and CLT20 2013 runners up team. Get RR match updates, IPL Photos, videos, photos, merchandise, players information & more here."
+        },
+        "essentials": {
+            "charset": "utf-8",
+            "viewport": "width=device-width, initial-scale=1,maximum-scale=1,viewport-fit=cover"
+        },
+        "csp": {
+            "content": "default-src 'self';"
+        },
+        "app": {
+            "fb_app_id": "291064039479137",
+            "apple_itunes_app": "app-id=1460354209",
+            "ios_url": "https://stg-rr.sportz.io/",
+            "app_store_id": "1460354209",
+            "ios_app_name": "Rajasthan Royals",
+            "android_url": "https://stg-rr.sportz.io/",
+            "android_package": "com.rajasthanroyals.app",
+            "android_app_name": "Rajasthan Royals"
+        },
+        "icons_and_manifest": {
+            "apple_touch_icon": {
+                "sizes": "180x180",
+                "href": "/static-assets/favicons/apple-touch-icon.png?v=1.42"
+            },
+            "icon": [
+                {
+                    "rel": "icon",
+                    "type": "image/png",
+                    "sizes": "16x16",
+                    "href": "/static-assets/favicons/favicon-16x16.png?v=1.42"
+                },
+                {
+                    "rel": "icon",
+                    "type": "image/png",
+                    "sizes": "32x32",
+                    "href": "/static-assets/favicons/favicon-32x32.png?v=1.42"
+                }
+            ],
+            "manifest": "/static-assets/favicons/site.webmanifest?v=1.42",
+            "mask_icon": {
+                "href": "/static-assets/favicons/safari-pinned-tab.svg?v=1.42",
+                "color": "#e50695"
+            },
+            "shortcut_icon": {
+                "href": "/static-assets/favicons/favicon.ico?v=1.42"
+            }
+        },
+        "tags": []
+    },
+    "templates": [
+        {
+            "id": "template_04548f10-76a8-4210-a5de-91d24a54122b",
+            "template_type": "photos",
+            "content_type": "photos",
+            "properties": {
+                "is_full_width": true,
+                "stack": "v",
+                "column_span": 4,
+                "row_span": 0,
+                "layout_type": "grid_paging"
+            },
+            "styles": {
+                "background_color": "",
+                "background_image": "",
+                "gap": "",
+                "padding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "spacing_4",
+                    "left": ""
+                }
+            },
+            "data": {
+                "title": "Photos",
+                "sub_title": "",
+                "cta": {
+                    "view_more": []
+                },
+                "toggle": {},
+                "filters": {},
+                "items": [
+                    {
+                        "asset_id": 481,
+                        "title": "Royal win for Super Giants at SMS",
+                        "desc": "Royal win for Super Giants at SMS",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/fa/1a/55/1-1/nFPwaZURGy.jpg",
+                        "created_date": "2024-02-08T06:29+00:00",
+                        "published_date": "2024-02-08T06:22+00:00",
+                        "author": "WebTeam",
+                        "duration": "",
+                        "asset_count": 9,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "events",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/categories/events",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "Photos",
+                                "canonical": "https://stg-lsg.sportz.io/photos",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 461,
+                        "title": "Low-scoring cliff hanger at BRSABV Ekana",
+                        "desc": "Low-scoring cliff hanger at BRSABV Ekana",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/photos/low-scoring-cliff-hanger-at-brsabv-ekana",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/4d/1a/f5/16-9/OUBmyBXbVh.jpg",
+                        "created_date": "2024-02-08T06:21+00:00",
+                        "published_date": "2024-02-08T06:14+00:00",
+                        "author": "WebTeam",
+                        "duration": "",
+                        "asset_count": 10,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "bts",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/categories/bts",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "Photos",
+                                "canonical": "https://stg-lsg.sportz.io/photos",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 441,
+                        "title": "Whopping win in Mohali",
+                        "desc": "Whopping win in Mohali",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/photos/whopping-win-in-mohali",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/84/99/51/16-9/OqUj4KqlIF.jpg",
+                        "created_date": "2024-02-08T06:13+00:00",
+                        "published_date": "2024-02-08T06:08+00:00",
+                        "author": "WebTeam",
+                        "duration": "",
+                        "asset_count": 10,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "training",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/categories/training",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "Photos",
+                                "canonical": "https://stg-lsg.sportz.io/photos",
+                                "is_linkable": true
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 421,
+                        "title": "A tight finish against RCB",
+                        "desc": "A tight finish against RCB",
+                        "detail_url": "https://stg-lsg.sportz.io/content-engine/v1/page-schema?platform=app&device=mobile&url=/photos/a-tight-finish-against-rcb",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/c9/fb/cf/16-9/lUaZmJWoCU.jpg",
+                        "created_date": "2024-02-08T06:07+00:00",
+                        "published_date": "2024-02-08T06:03+00:00",
+                        "author": "WebTeam",
+                        "duration": "",
+                        "asset_count": 10,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "events",
+                                "canonical": "https://stg-lsg.sportz.io//lsg/categories/events",
+                                "is_linkable": true
+                            },
+                            "secondary": {
+                                "name": "Photos",
+                                "canonical": "https://stg-lsg.sportz.io/photos",
+                                "is_linkable": true
+                            }
+                        }
+                    }
+                ],
+                "pagination": {
+                    "pagination_type": "button_based",
+                    "load_more_count": "10",
+                    "label": "Load More",
+                    "api": "https://stg-lsg.sportz.io/content-engine/v1/resources?template_id=88528b7c-7d7d-4ef9-ab51-e0a655e94ea7-photo-listing&platform=app&deviceType=mobile&entities={{ENTITIES}}&page={{PAGE}}&limit=10",
+                    "total_assets": 20,
+                    "previous": null,
+                    "max_pages": 2,
+                    "next": 2
+                }
+            },
+            "composition": {
+                "header": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "spacing_5",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": [
+                            {
+                                "component_type": "organism",
+                                "id": "",
+                                "properties": {
+                                    "column_span": 0,
+                                    "row_span": 0
+                                }
+                            }
+                        ]
+                    }
+                },
+                "body": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "spacing_4",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": [
+                            {
+                                "component_type": "organism",
+                                "id": "photos-firstlist-parent-a45e6c68-36b5-400e-8d6c-0356f7a5a05f",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "photos-secondlist-parent-a45e6c68-36b5-400e-8d6c-0356f7a5a05f",
+                                "properties": {
+                                    "column_span": 2,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "photos-secondlist-parent-a45e6c68-36b5-400e-8d6c-0356f7a5a05f",
+                                "properties": {
+                                    "column_span": 2,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "photos-thirdlist-parent-a45e6c68-36b5-400e-8d6c-0356f7a5a05f",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            }
+                        ],
+                        "paginated_items": [
+                            {
+                                "component_type": "organism",
+                                "id": "photos-thirdlist-parent-a45e6c68-36b5-400e-8d6c-0356f7a5a05f",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "photos-secondlist-parent-a45e6c68-36b5-400e-8d6c-0356f7a5a05f",
+                                "properties": {
+                                    "column_span": 2,
+                                    "row_span": 0
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "photos-secondlist-parent-a45e6c68-36b5-400e-8d6c-0356f7a5a05f",
+                                "properties": {
+                                    "column_span": 2,
+                                    "row_span": 0
+                                }
+                            }
+                        ],
+                        "carousel": {
+                            "slides_per_view": 1,
+                            "nav_arrows": {
+                                "visibility": false,
+                                "variant": "1",
+                                "sub_variant": "nearby",
+                                "position": "bottom_trailing",
+                                "enabled_color": "button_filled_primary_background_default",
+                                "disabled_color": "button_filled_secondary_text_default"
+                            },
+                            "nav_indicator": {
+                                "visibility": true,
+                                "enabled_color": "background_sec_surface",
+                                "disabled_color": "background_invert_surface",
+                                "variant": "1",
+                                "sub_variant": "rounded",
+                                "stack": "h",
+                                "position": "bottom",
+                                "offset": -16
+                            },
+                            "space_between": "10",
+                            "autoplay": true,
+                            "autoplay_interval": 5000,
+                            "loop": true,
+                            "direction": "horizontal",
+                            "free_mode": false
+                        }
+                    },
+                    "injection": {},
+                    "preview": {
+                        "items": [],
+                        "carousel": {}
+                    }
+                },
+                "footer": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": []
+                    }
+                }
+            },
+            "tags": [
+                "has_filters"
+            ],
+            "data_fetcher": {
+                "api": "https://stg-sg.sportz.io/apiv4/listing?entities=2,4&otherent=&exclent=&pgnum=1&inum=4&pgsize=4",
+                "image_ratio": [
+                    "1-1",
+                    "16-9",
+                    "16-9",
+                    "16-9"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,626 @@
+{
+    "id": "page_photos_detail",
+    "page_type": "detail",
+    "device": "mobile",
+    "screen_name": "Photos",
+    "force_back": "",
+    "theme": {
+        "main_theme": "40b949f1-5800-4025-8395-ed22bd52ccc6",
+        "micro_theme": ""
+    },
+    "meta": {
+        "language": "en",
+        "keywords": "IPL 2025, DC vs LSG, Delhi Capitals, Lucknow Super Giants, Match Gallery, Cricket Photos",
+        "meta_desc": "View photos from the IPL 2025 match between Delhi Capitals (DC) and Lucknow Super Giants (LSG) played on March 24, 2025.",
+        "browser_title": "IPL 2025 | DC vs LSG | Match Gallery",
+        "canonical_url": "https://lsg.sportz.io/photo-gallery/ipl-2025-dc-vs-lsg-match-gallery",
+        "json_ld_data": {
+            "schemas": []
+        },
+        "twitter": {
+            "card": "summary_large_image",
+            "title": "IPL 2025 | DC vs LSG | Match Gallery",
+            "description": "View photos from the IPL 2025 match between Delhi Capitals (DC) and Lucknow Super Giants (LSG) played on March 24, 2025.",
+            "image": "https://lsg.sportz.io/static-assets/images/dc-vs-lsg-match-gallery.jpg",
+            "url": "https://lsg.sportz.io/photo-gallery/ipl-2025-dc-vs-lsg-match-gallery"
+        },
+        "og": {
+            "site_name": "Lucknow Super Giants",
+            "type": "website",
+            "title": "IPL 2025 | DC vs LSG | Match Gallery",
+            "content": "View photos from the IPL 2025 match between Delhi Capitals (DC) and Lucknow Super Giants (LSG) played on March 24, 2025.",
+            "url": "https://lsg.sportz.io/photo-gallery/ipl-2025-dc-vs-lsg-match-gallery",
+            "image": "https://lsg.sportz.io/static-assets/images/dc-vs-lsg-match-gallery.jpg",
+            "image_alt": "Delhi Capitals vs Lucknow Super Giants IPL 2025 Match Gallery"
+        },
+        "essentials": {
+            "charset": "utf-8",
+            "viewport": "width=device-width, initial-scale=1,maximum-scale=1,viewport-fit=cover"
+        },
+        "csp": {
+            "content": "default-src 'self';"
+        },
+        "app": {
+            "fb_app_id": "291064039479137",
+            "apple_itunes_app": "app-id=1460354209",
+            "ios_url": "https://lsg.sportz.io/photo-gallery/ipl-2025-dc-vs-lsg-match-gallery",
+            "app_store_id": "1460354209",
+            "ios_app_name": "Lucknow Super Giants",
+            "android_url": "https://lsg.sportz.io/photo-gallery/ipl-2025-dc-vs-lsg-match-gallery",
+            "android_package": "com.lucknowsupergiants.app",
+            "android_app_name": "Lucknow Super Giants"
+        },
+        "icons_and_manifest": {
+            "apple_touch_icon": {
+                "sizes": "180x180",
+                "href": "/static-assets/favicons/apple-touch-icon.png?v=1.42"
+            },
+            "icon": [
+                {
+                    "rel": "icon",
+                    "type": "image/png",
+                    "sizes": "16x16",
+                    "href": "/static-assets/favicons/favicon-16x16.png?v=1.42"
+                },
+                {
+                    "rel": "icon",
+                    "type": "image/png",
+                    "sizes": "32x32",
+                    "href": "/static-assets/favicons/favicon-32x32.png?v=1.42"
+                }
+            ],
+            "manifest": "/static-assets/favicons/site.webmanifest?v=1.42",
+            "mask_icon": {
+                "href": "/static-assets/favicons/safari-pinned-tab.svg?v=1.42",
+                "color": "#0066cc"
+            },
+            "shortcut_icon": {
+                "href": "/static-assets/favicons/favicon.ico?v=1.42"
+            }
+        },
+        "tags": []
+    },
+    "templates": [
+        {
+            "id": "photo_gallery_grid_template",
+            "template_type": "photos",
+            "content_type": "photos",
+            "properties": {
+                "stack": "v",
+                "column_span": 4,
+                "row_span": 0,
+                "layout_type": "grid",
+                "is_full_width": true
+            },
+            "styles": {
+                "background_color": "background_main_surface",
+                "background_image": "",
+                "gap": "spacing_3",
+                "padding": {
+                    "top": "spacing_4",
+                    "right": "spacing_4",
+                    "bottom": "spacing_6",
+                    "left": "spacing_4"
+                }
+            },
+            "data": {
+                "title": "",
+                "sub_title": "",
+                "cta": {
+                    "view_more": []
+                },
+                "toggle": {},
+                "filters": {},
+                "items": [
+                    {
+                        "asset_id": 6381,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/fa/1a/55/16-9/nFPwaZURGy.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6621,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/28/bd/8a/4-3/aOZxYb776d.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6421,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/fe/9c/98/4-3/qXIv6EttjU.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6401,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/29/da/95/16-9/UU7Edrm5CE.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6441,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/4c/46/f3/4-3/97YqqWNID5.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6461,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/2c/5b/92/4-3/NcR0CqZ7jW.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6481,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/1e/08/f8/16-9/eke5VffVj9.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6601,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/7a/aa/e9/4-3/GJnPTPy2CF.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6521,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/3e/b5/fa/4-3/eN2sWnbJKf.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    },
+                    {
+                        "asset_id": 6641,
+                        "title": "",
+                        "desc": "",
+                        "detail_url": "",
+                        "share_url": "https://stg-lsg.sportz.io/photos/royal-win-for-super-giants-at-sms",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/e4/87/8f/16-9/6YKzYrThPZ.jpg?w=400",
+                        "created_date": "",
+                        "published_date": "",
+                        "author": "",
+                        "duration": "",
+                        "asset_count": 0,
+                        "asset_type_id": 2,
+                        "entities": {
+                            "primary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            },
+                            "secondary": {
+                                "name": "",
+                                "canonical": "",
+                                "is_linkable": false
+                            }
+                        }
+                    }
+                ]
+            },
+            "composition": {
+                "body": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "spacing_3",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": [
+                            {
+                                "component_type": "organism",
+                                "id": "photo_grid_organism",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 1
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "photo_grid_organism_4_3",
+                                "properties": {
+                                    "column_span": 2,
+                                    "row_span": 1
+                                }
+                            },
+                            {
+                                "component_type": "organism",
+                                "id": "photo_grid_organism_4_3",
+                                "properties": {
+                                    "column_span": 2,
+                                    "row_span": 1
+                                }
+                            }
+                        ],
+                        "grid": {
+                            "columns": 2,
+                            "gap": "spacing_3"
+                        }
+                    }
+                }
+            },
+            "tags": [],
+            "on_the_fly_data": {
+                "api": "{{API_DOMAIN}}/apiv3/gettemplatedata?url={{URL}}",
+                "parser": "photoDetailImages"
+            }
+        },
+        {
+            "id": "carousel_overlay_template",
+            "template_type": "showcase",
+            "content_type": "showcase",
+            "properties": {
+                "stack": "v",
+                "column_span": 4,
+                "row_span": 0,
+                "layout_type": "carousel_listing",
+                "is_full_width": true,
+                "presentation_format": "overlay"
+            },
+            "styles": {
+                "background_color": "",
+                "background_image": "",
+                "gap": "",
+                "padding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            "data": {
+                "title": "",
+                "sub_title": "",
+                "cta": {
+                    "view_more": []
+                },
+                "toggle": {},
+                "filters": {},
+                "items": [
+                    {
+                        "asset_id": 1,
+                        "title": "LSG players celebrating a wicket",
+                        "desc": "LSG players celebrating a wicket against Delhi Capitals",
+                        "detail_url": "https://lsg.sportz.io/photo/ipl-2025-dc-vs-lsg-image-1",
+                        "thumbnail_image": "https://stg-sg.sportz.io/static-assets/waf-images/5c/97/b3/16-9/WEMipRwrzT.jpg?v=13.76&w=500",
+                        "high_res_image": "https://stg-sg.sportz.io/static-assets/waf-images/5c/97/b3/16-9/WEMipRwrzT.jpg?v=13.76&w=500",
+                        "created_date": "2025-03-24T15:00+00:00",
+                        "published_date": "2025-03-24T15:00+00:00"
+                    },
+                    {
+                        "asset_id": 2,
+                        "title": "LSG players on field",
+                        "desc": "LSG players discussing strategy during the match against Delhi Capitals",
+                        "detail_url": "https://lsg.sportz.io/photo/ipl-2025-dc-vs-lsg-image-2",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/6a/e4/d8/16-9/wPKnE9TT2j.jpg",
+                        "high_res_image": "https://stg-sg.sportz.io/static-assets/waf-images/4d/1a/f5/16-9/OUBmyBXbVh.jpg?v=13.76&w=500",
+                        "created_date": "2025-03-24T15:00+00:00",
+                        "published_date": "2025-03-24T15:00+00:00"
+                    },
+                    {
+                        "asset_id": 3,
+                        "title": "LSG batsman in action",
+                        "desc": "LSG batsman hitting a boundary against Delhi Capitals",
+                        "detail_url": "https://lsg.sportz.io/photo/ipl-2025-dc-vs-lsg-image-3",
+                        "thumbnail_image": "https://stg-lsg.sportz.io/static-assets/waf-images/38/93/cd/16-9/R22YyQzTCA.jpg",
+                        "high_res_image": "https://stg-sg.sportz.io/static-assets/waf-images/4d/1a/f5/16-9/OUBmyBXbVh.jpg?v=13.76&w=500",
+                        "created_date": "2025-03-24T15:00+00:00",
+                        "published_date": "2025-03-24T15:00+00:00"
+                    },
+                    {
+                        "asset_id": 4,
+                        "title": "Team huddle before the match",
+                        "desc": "LSG team huddle before the match against Delhi Capitals",
+                        "detail_url": "https://lsg.sportz.io/photo/ipl-2025-dc-vs-lsg-image-4",
+                        "thumbnail_image": "https://stg-sg.sportz.io/static-assets/waf-images/5c/97/b3/16-9/WEMipRwrzT.jpg?v=13.76&w=500",
+                        "high_res_image": "https://stg-sg.sportz.io/static-assets/waf-images/5c/97/b3/16-9/WEMipRwrzT.jpg?v=13.76&w=500",
+                        "created_date": "2025-03-24T15:00+00:00",
+                        "published_date": "2025-03-24T15:00+00:00"
+                    },
+                    {
+                        "asset_id": 5,
+                        "title": "LSG captain with teammates",
+                        "desc": "LSG captain discussing strategy with teammates",
+                        "detail_url": "https://lsg.sportz.io/photo/ipl-2025-dc-vs-lsg-image-5",
+                        "thumbnail_image": "https://stg-sg.sportz.io/static-assets/waf-images/4d/1a/f5/16-9/OUBmyBXbVh.jpg?v=13.76&w=500",
+                        "high_res_image": "https://stg-sg.sportz.io/static-assets/waf-images/4d/1a/f5/16-9/OUBmyBXbVh.jpg?v=13.76&w=500",
+                        "created_date": "2025-03-24T15:00+00:00",
+                        "published_date": "2025-03-24T15:00+00:00"
+                    },
+                    {
+                        "asset_id": 6,
+                        "title": "LSG bowling attack",
+                        "desc": "LSG bowling unit in action against Delhi Capitals",
+                        "detail_url": "https://lsg.sportz.io/photo/ipl-2025-dc-vs-lsg-image-6",
+                        "thumbnail_image": "https://stg-sg.sportz.io/static-assets/waf-images/4d/1a/f5/16-9/OUBmyBXbVh.jpg?v=13.76&w=500",
+                        "high_res_image": "https://stg-sg.sportz.io/static-assets/waf-images/4d/1a/f5/16-9/OUBmyBXbVh.jpg?v=13.76&w=500",
+                        "created_date": "2025-03-24T15:00+00:00",
+                        "published_date": "2025-03-24T15:00+00:00"
+                    },
+                    {
+                        "asset_id": 7,
+                        "title": "LSG team on field",
+                        "desc": "LSG bowling unit in action against Delhi Capitals",
+                        "detail_url": "https://lsg.sportz.io/photo/ipl-2025-dc-vs-lsg-image-6",
+                        "thumbnail_image": "https://stg-sg.sportz.io/static-assets/waf-images/5c/97/b3/16-9/WEMipRwrzT.jpg?v=13.76&w=500",
+                        "high_res_image": "https://stg-sg.sportz.io/static-assets/waf-images/5c/97/b3/16-9/WEMipRwrzT.jpg?v=13.76&w=500",
+                        "created_date": "2025-03-24T15:00+00:00",
+                        "published_date": "2025-03-24T15:00+00:00"
+                    }
+                ]
+            },
+            "composition": {
+                "header": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "spacing_3",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": []
+                    }
+                },
+                "body": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "spacing_3",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": [
+                            {
+                                "component_type": "organism",
+                                "id": "photo-carousel-body-organism",
+                                "properties": {
+                                    "column_span": 4,
+                                    "row_span": 1
+                                }
+                            }
+                        ],
+                        "carousel": {
+                            "slides_per_view": 1,
+                            "nav_arrows": {
+                                "visibility": true,
+                                "variant": "1",
+                                "sub_variant": "wide",
+                                "position": "center",
+                                "enabled_color": "button_filled_primary_background_default",
+                                "disabled_color": "button_filled_secondary_text_default",
+                                "offset": 10
+                            },
+                            "nav_indicator": {
+                                "visibility": true,
+                                "enabled_color": "background_sec_surface",
+                                "disabled_color": "background_invert_surface",
+                                "enabled_color_typography": "h3_bold",
+                                "disabled_color_typography": "body_md_regular",
+                                "variant": "4",
+                                "sub_variant": "pages",
+                                "stack": "h",
+                                "position": "bottom_left",
+                                "offset": -26
+                            },
+                            "space_between": "10",
+                            "autoplay": false,
+                            "autoplay_interval": 5000,
+                            "loop": true,
+                            "direction": "horizontal",
+                            "free_mode": false
+                        }
+                    }
+                },
+                "footer": {
+                    "styles": {
+                        "background_color": "",
+                        "background_image": "",
+                        "gap": "spacing_3",
+                        "padding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    "organisms": {
+                        "items": []
+                    }
+                }
+            },
+            "tags": []
+        }
+    ]
+}
