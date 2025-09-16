@@ -26,6 +26,7 @@ struct LocalTemplateAppApp: App {
         
         ReelsModuleConfig.configure(brightcove: ReelsBrightcoveCredentials(accountId: "5420904993001",
                                                                            policyKey: "BCpkADawqM3DwCTPGyMMiG0loem8lXox3utO1lFEP1i-_l1MpjRSVXMTSsa2ToslC129_W6YzwJpXbpbIVRFwf35qYM0pxo2HJK-_SotgmgrkmJTQ-024GkXIelVSY8LOHZzRBtcBU57M6Is"))
+        ReelsModuleConfig.configure(dailyMotion: ReelsDailyMotionCredentials(playerId: "x10gio"))
         
         // Check if the font is available
 //        for family in UIFont.familyNames {

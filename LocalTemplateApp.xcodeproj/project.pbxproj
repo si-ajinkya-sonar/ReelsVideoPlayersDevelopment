@@ -7,38 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		29294D412E68876A0097FDAE /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF352E2A3FDC0003DF3A /* ArticleModule */; };
-		29294D422E68876A0097FDAE /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF372E2A3FDC0003DF3A /* MultiTemplateModule */; };
-		29294D432E68876A0097FDAE /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF392E2A3FDC0003DF3A /* PlayerCardModule */; };
-		29294D442E68876A0097FDAE /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF3B2E2A3FDC0003DF3A /* SDUIRenderer */; };
-		29294D462E68876A0097FDAE /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF3F2E2A3FDC0003DF3A /* ScoreStripModule */; };
-		29294D472E68876A0097FDAE /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF412E2A3FDC0003DF3A /* ShowcaseModule */; };
-		29294D482E68876A0097FDAE /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF432E2A3FDC0003DF3A /* TableModule */; };
-		29294D492E68876A0097FDAE /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF592E2A41730003DF3A /* ArticleModule */; };
-		29294D4A2E68876A0097FDAE /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF5B2E2A41730003DF3A /* MultiTemplateModule */; };
-		29294D4B2E68876A0097FDAE /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF5D2E2A41730003DF3A /* PlayerCardModule */; };
-		29294D4C2E68876A0097FDAE /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF5F2E2A41730003DF3A /* SDUIRenderer */; };
-		29294D4E2E68876A0097FDAE /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF632E2A41730003DF3A /* ScoreStripModule */; };
-		29294D4F2E68876A0097FDAE /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF652E2A41730003DF3A /* ShowcaseModule */; };
-		29294D502E68876A0097FDAE /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF672E2A41730003DF3A /* TableModule */; };
-		29294D532E6887C70097FDAE /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D522E6887C70097FDAE /* ArticleModule */; };
-		29294D552E6887C70097FDAE /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D542E6887C70097FDAE /* MultiTemplateModule */; };
-		29294D572E6887C70097FDAE /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D562E6887C70097FDAE /* PlayerCardModule */; };
-		29294D592E6887C70097FDAE /* ReelsModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D582E6887C70097FDAE /* ReelsModule */; };
-		29294D5B2E6887C70097FDAE /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D5A2E6887C70097FDAE /* SDUIRenderer */; };
-		29294D5D2E6887C70097FDAE /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D5C2E6887C70097FDAE /* ScoreStripModule */; };
-		29294D5F2E6887C70097FDAE /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D5E2E6887C70097FDAE /* ShowcaseModule */; };
-		29294D612E6887C70097FDAE /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D602E6887C70097FDAE /* TableModule */; };
+		2921A0D12E740FAA0015BC6F /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2921A0D02E740FAA0015BC6F /* ArticleModule */; };
+		2921A0D32E740FAA0015BC6F /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2921A0D22E740FAA0015BC6F /* MultiTemplateModule */; };
+		2921A0D52E740FAA0015BC6F /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2921A0D42E740FAA0015BC6F /* PlayerCardModule */; };
+		2921A0D72E740FAA0015BC6F /* ReelsModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2921A0D62E740FAA0015BC6F /* ReelsModule */; };
+		2921A0D92E740FAA0015BC6F /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = 2921A0D82E740FAA0015BC6F /* SDUIRenderer */; };
+		2921A0DB2E740FAA0015BC6F /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2921A0DA2E740FAA0015BC6F /* ScoreStripModule */; };
+		2921A0DD2E740FAA0015BC6F /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2921A0DC2E740FAA0015BC6F /* ShowcaseModule */; };
+		2921A0DF2E740FAA0015BC6F /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2921A0DE2E740FAA0015BC6F /* TableModule */; };
+		2976CCAB2E742EA700758470 /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF352E2A3FDC0003DF3A /* ArticleModule */; };
+		2976CCAC2E742EA700758470 /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF372E2A3FDC0003DF3A /* MultiTemplateModule */; };
+		2976CCAD2E742EA700758470 /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF392E2A3FDC0003DF3A /* PlayerCardModule */; };
+		2976CCAE2E742EA700758470 /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF3B2E2A3FDC0003DF3A /* SDUIRenderer */; };
+		2976CCAF2E742EA700758470 /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF3F2E2A3FDC0003DF3A /* ScoreStripModule */; };
+		2976CCB02E742EA700758470 /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF412E2A3FDC0003DF3A /* ShowcaseModule */; };
+		2976CCB12E742EA700758470 /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF432E2A3FDC0003DF3A /* TableModule */; };
+		2976CCB22E742EA700758470 /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF592E2A41730003DF3A /* ArticleModule */; };
+		2976CCB32E742EA700758470 /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF5B2E2A41730003DF3A /* MultiTemplateModule */; };
+		2976CCB42E742EA700758470 /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF5D2E2A41730003DF3A /* PlayerCardModule */; };
+		2976CCB52E742EA700758470 /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF5F2E2A41730003DF3A /* SDUIRenderer */; };
+		2976CCB62E742EA700758470 /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF632E2A41730003DF3A /* ScoreStripModule */; };
+		2976CCB72E742EA700758470 /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF652E2A41730003DF3A /* ShowcaseModule */; };
+		2976CCB82E742EA700758470 /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = EED0EF672E2A41730003DF3A /* TableModule */; };
+		2976CCB92E742EA700758470 /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64832E68250B00809F2E /* ArticleModule */; };
+		2976CCBA2E742EA700758470 /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64852E68250B00809F2E /* MultiTemplateModule */; };
+		2976CCBB2E742EA700758470 /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64872E68250B00809F2E /* PlayerCardModule */; };
+		2976CCBC2E742EA700758470 /* ReelsModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64892E68250B00809F2E /* ReelsModule */; };
+		2976CCBD2E742EA700758470 /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E648B2E68250B00809F2E /* SDUIRenderer */; };
+		2976CCBE2E742EA700758470 /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E648D2E68250B00809F2E /* ScoreStripModule */; };
+		2976CCBF2E742EA700758470 /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E648F2E68250B00809F2E /* ShowcaseModule */; };
+		2976CCC02E742EA700758470 /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64912E68250B00809F2E /* TableModule */; };
+		2976CCC12E742EA700758470 /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D522E6887C70097FDAE /* ArticleModule */; };
+		2976CCC22E742EA700758470 /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D542E6887C70097FDAE /* MultiTemplateModule */; };
+		2976CCC32E742EA700758470 /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D562E6887C70097FDAE /* PlayerCardModule */; };
+		2976CCC42E742EA700758470 /* ReelsModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D582E6887C70097FDAE /* ReelsModule */; };
+		2976CCC52E742EA700758470 /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D5A2E6887C70097FDAE /* SDUIRenderer */; };
+		2976CCC62E742EA700758470 /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D5C2E6887C70097FDAE /* ScoreStripModule */; };
+		2976CCC72E742EA700758470 /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D5E2E6887C70097FDAE /* ShowcaseModule */; };
+		2976CCC82E742EA700758470 /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = 29294D602E6887C70097FDAE /* TableModule */; };
+		2976CCCC2E74302600758470 /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2976CCCB2E74302600758470 /* ArticleModule */; };
+		2976CCCE2E74302600758470 /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2976CCCD2E74302600758470 /* MultiTemplateModule */; };
+		2976CCD02E74302600758470 /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2976CCCF2E74302600758470 /* PlayerCardModule */; };
+		2976CCD22E74302600758470 /* ReelsModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2976CCD12E74302600758470 /* ReelsModule */; };
+		2976CCD42E74302600758470 /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = 2976CCD32E74302600758470 /* SDUIRenderer */; };
+		2976CCD62E74302600758470 /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2976CCD52E74302600758470 /* ScoreStripModule */; };
+		2976CCD82E74302600758470 /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2976CCD72E74302600758470 /* ShowcaseModule */; };
+		2976CCDA2E74302600758470 /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = 2976CCD92E74302600758470 /* TableModule */; };
 		EE5FCFC32E409CCD00DEB421 /* PhotosListingGrid.json in Resources */ = {isa = PBXBuildFile; fileRef = EE5FCFC22E409CCD00DEB421 /* PhotosListingGrid.json */; };
 		EE6984FB2E33CF180018829B /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE6984FA2E33CF180018829B /* HomeView.swift */; };
-		EE8E64842E68250B00809F2E /* ArticleModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64832E68250B00809F2E /* ArticleModule */; };
-		EE8E64862E68250B00809F2E /* MultiTemplateModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64852E68250B00809F2E /* MultiTemplateModule */; };
-		EE8E64882E68250B00809F2E /* PlayerCardModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64872E68250B00809F2E /* PlayerCardModule */; };
-		EE8E648A2E68250B00809F2E /* ReelsModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64892E68250B00809F2E /* ReelsModule */; };
-		EE8E648C2E68250B00809F2E /* SDUIRenderer in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E648B2E68250B00809F2E /* SDUIRenderer */; };
-		EE8E648E2E68250B00809F2E /* ScoreStripModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E648D2E68250B00809F2E /* ScoreStripModule */; };
-		EE8E64902E68250B00809F2E /* ShowcaseModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E648F2E68250B00809F2E /* ShowcaseModule */; };
-		EE8E64922E68250B00809F2E /* TableModule in Frameworks */ = {isa = PBXBuildFile; productRef = EE8E64912E68250B00809F2E /* TableModule */; };
 		EE92624D2E44B5CB00792D33 /* sduischema.json in Resources */ = {isa = PBXBuildFile; fileRef = EE92624C2E44B5CB00792D33 /* sduischema.json */; };
 		EE92624F2E44B5D200792D33 /* homepage-vertical.json in Resources */ = {isa = PBXBuildFile; fileRef = EE92624E2E44B5D200792D33 /* homepage-vertical.json */; };
 		EE9A173D2E45EDD00057E01D /* ReelsContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9A173C2E45EDD00057E01D /* ReelsContentView.swift */; };
@@ -105,36 +121,52 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				29294D552E6887C70097FDAE /* MultiTemplateModule in Frameworks */,
-				29294D572E6887C70097FDAE /* PlayerCardModule in Frameworks */,
-				29294D502E68876A0097FDAE /* TableModule in Frameworks */,
-				29294D4F2E68876A0097FDAE /* ShowcaseModule in Frameworks */,
-				29294D5B2E6887C70097FDAE /* SDUIRenderer in Frameworks */,
-				29294D4E2E68876A0097FDAE /* ScoreStripModule in Frameworks */,
-				29294D5D2E6887C70097FDAE /* ScoreStripModule in Frameworks */,
-				29294D4C2E68876A0097FDAE /* SDUIRenderer in Frameworks */,
-				29294D4B2E68876A0097FDAE /* PlayerCardModule in Frameworks */,
-				29294D592E6887C70097FDAE /* ReelsModule in Frameworks */,
-				29294D4A2E68876A0097FDAE /* MultiTemplateModule in Frameworks */,
-				29294D492E68876A0097FDAE /* ArticleModule in Frameworks */,
-				29294D482E68876A0097FDAE /* TableModule in Frameworks */,
-				29294D472E68876A0097FDAE /* ShowcaseModule in Frameworks */,
-				29294D462E68876A0097FDAE /* ScoreStripModule in Frameworks */,
-				29294D5F2E6887C70097FDAE /* ShowcaseModule in Frameworks */,
-				29294D442E68876A0097FDAE /* SDUIRenderer in Frameworks */,
-				29294D432E68876A0097FDAE /* PlayerCardModule in Frameworks */,
-				29294D422E68876A0097FDAE /* MultiTemplateModule in Frameworks */,
-				29294D412E68876A0097FDAE /* ArticleModule in Frameworks */,
-				29294D532E6887C70097FDAE /* ArticleModule in Frameworks */,
-				EE8E648E2E68250B00809F2E /* ScoreStripModule in Frameworks */,
-				EE8E64922E68250B00809F2E /* TableModule in Frameworks */,
-				29294D612E6887C70097FDAE /* TableModule in Frameworks */,
-				EE8E64902E68250B00809F2E /* ShowcaseModule in Frameworks */,
-				EE8E648A2E68250B00809F2E /* ReelsModule in Frameworks */,
-				EE8E64862E68250B00809F2E /* MultiTemplateModule in Frameworks */,
-				EE8E64882E68250B00809F2E /* PlayerCardModule in Frameworks */,
-				EE8E64842E68250B00809F2E /* ArticleModule in Frameworks */,
-				EE8E648C2E68250B00809F2E /* SDUIRenderer in Frameworks */,
+				2976CCC82E742EA700758470 /* TableModule in Frameworks */,
+				2976CCC72E742EA700758470 /* ShowcaseModule in Frameworks */,
+				2976CCC62E742EA700758470 /* ScoreStripModule in Frameworks */,
+				2976CCC52E742EA700758470 /* SDUIRenderer in Frameworks */,
+				2976CCC42E742EA700758470 /* ReelsModule in Frameworks */,
+				2976CCC32E742EA700758470 /* PlayerCardModule in Frameworks */,
+				2976CCC22E742EA700758470 /* MultiTemplateModule in Frameworks */,
+				2976CCC12E742EA700758470 /* ArticleModule in Frameworks */,
+				2976CCC02E742EA700758470 /* TableModule in Frameworks */,
+				2976CCBF2E742EA700758470 /* ShowcaseModule in Frameworks */,
+				2976CCBE2E742EA700758470 /* ScoreStripModule in Frameworks */,
+				2976CCBD2E742EA700758470 /* SDUIRenderer in Frameworks */,
+				2976CCBC2E742EA700758470 /* ReelsModule in Frameworks */,
+				2976CCBB2E742EA700758470 /* PlayerCardModule in Frameworks */,
+				2976CCBA2E742EA700758470 /* MultiTemplateModule in Frameworks */,
+				2976CCB92E742EA700758470 /* ArticleModule in Frameworks */,
+				2976CCB82E742EA700758470 /* TableModule in Frameworks */,
+				2976CCDA2E74302600758470 /* TableModule in Frameworks */,
+				2976CCB72E742EA700758470 /* ShowcaseModule in Frameworks */,
+				2976CCB62E742EA700758470 /* ScoreStripModule in Frameworks */,
+				2976CCB52E742EA700758470 /* SDUIRenderer in Frameworks */,
+				2976CCB42E742EA700758470 /* PlayerCardModule in Frameworks */,
+				2976CCB32E742EA700758470 /* MultiTemplateModule in Frameworks */,
+				2976CCB22E742EA700758470 /* ArticleModule in Frameworks */,
+				2976CCB12E742EA700758470 /* TableModule in Frameworks */,
+				2976CCD62E74302600758470 /* ScoreStripModule in Frameworks */,
+				2976CCB02E742EA700758470 /* ShowcaseModule in Frameworks */,
+				2976CCAF2E742EA700758470 /* ScoreStripModule in Frameworks */,
+				2976CCAE2E742EA700758470 /* SDUIRenderer in Frameworks */,
+				2976CCD82E74302600758470 /* ShowcaseModule in Frameworks */,
+				2976CCD02E74302600758470 /* PlayerCardModule in Frameworks */,
+				2976CCAD2E742EA700758470 /* PlayerCardModule in Frameworks */,
+				2976CCAC2E742EA700758470 /* MultiTemplateModule in Frameworks */,
+				2976CCAB2E742EA700758470 /* ArticleModule in Frameworks */,
+				2921A0DB2E740FAA0015BC6F /* ScoreStripModule in Frameworks */,
+				2921A0DF2E740FAA0015BC6F /* TableModule in Frameworks */,
+				2976CCCE2E74302600758470 /* MultiTemplateModule in Frameworks */,
+				2921A0DD2E740FAA0015BC6F /* ShowcaseModule in Frameworks */,
+				2921A0D72E740FAA0015BC6F /* ReelsModule in Frameworks */,
+				2976CCD22E74302600758470 /* ReelsModule in Frameworks */,
+				2921A0D32E740FAA0015BC6F /* MultiTemplateModule in Frameworks */,
+				2976CCCC2E74302600758470 /* ArticleModule in Frameworks */,
+				2976CCD42E74302600758470 /* SDUIRenderer in Frameworks */,
+				2921A0D52E740FAA0015BC6F /* PlayerCardModule in Frameworks */,
+				2921A0D12E740FAA0015BC6F /* ArticleModule in Frameworks */,
+				2921A0D92E740FAA0015BC6F /* SDUIRenderer in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +312,22 @@
 				29294D5C2E6887C70097FDAE /* ScoreStripModule */,
 				29294D5E2E6887C70097FDAE /* ShowcaseModule */,
 				29294D602E6887C70097FDAE /* TableModule */,
+				2921A0D02E740FAA0015BC6F /* ArticleModule */,
+				2921A0D22E740FAA0015BC6F /* MultiTemplateModule */,
+				2921A0D42E740FAA0015BC6F /* PlayerCardModule */,
+				2921A0D62E740FAA0015BC6F /* ReelsModule */,
+				2921A0D82E740FAA0015BC6F /* SDUIRenderer */,
+				2921A0DA2E740FAA0015BC6F /* ScoreStripModule */,
+				2921A0DC2E740FAA0015BC6F /* ShowcaseModule */,
+				2921A0DE2E740FAA0015BC6F /* TableModule */,
+				2976CCCB2E74302600758470 /* ArticleModule */,
+				2976CCCD2E74302600758470 /* MultiTemplateModule */,
+				2976CCCF2E74302600758470 /* PlayerCardModule */,
+				2976CCD12E74302600758470 /* ReelsModule */,
+				2976CCD32E74302600758470 /* SDUIRenderer */,
+				2976CCD52E74302600758470 /* ScoreStripModule */,
+				2976CCD72E74302600758470 /* ShowcaseModule */,
+				2976CCD92E74302600758470 /* TableModule */,
 			);
 			productName = LocalTemplateApp;
 			productReference = EED0EF072E2A2DF90003DF3A /* LocalTemplateApp.app */;
@@ -310,7 +358,7 @@
 			mainGroup = EED0EEFE2E2A2DF90003DF3A;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				29294D512E6887C70097FDAE /* XCLocalSwiftPackageReference "../WAF SI Library Project Development/wnm-component-poc-ios" */,
+				2976CCCA2E74302600758470 /* XCLocalSwiftPackageReference "../WAF SI Library Project Development/wnm-component-poc-ios" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = EED0EF082E2A2DF90003DF3A /* Products */;
@@ -495,8 +543,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = WZBM2RM546;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LocalTemplateApp/Info.plist;
@@ -511,8 +562,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.LocalTemplateApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sportz.wmac-lsg-native";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "WMAC - LSG - Native - Development";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -524,8 +577,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = WZBM2RM546;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LocalTemplateApp/Info.plist;
@@ -540,8 +596,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.LocalTemplateApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sportz.wmac-lsg-native";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "WMAC - LSG - Native - Development";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -572,13 +630,45 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		29294D512E6887C70097FDAE /* XCLocalSwiftPackageReference "../WAF SI Library Project Development/wnm-component-poc-ios" */ = {
+		2976CCCA2E74302600758470 /* XCLocalSwiftPackageReference "../WAF SI Library Project Development/wnm-component-poc-ios" */ = {
 			isa = XCLocalSwiftPackageReference;
 			relativePath = "../WAF SI Library Project Development/wnm-component-poc-ios";
 		};
 /* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		2921A0D02E740FAA0015BC6F /* ArticleModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ArticleModule;
+		};
+		2921A0D22E740FAA0015BC6F /* MultiTemplateModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = MultiTemplateModule;
+		};
+		2921A0D42E740FAA0015BC6F /* PlayerCardModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = PlayerCardModule;
+		};
+		2921A0D62E740FAA0015BC6F /* ReelsModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReelsModule;
+		};
+		2921A0D82E740FAA0015BC6F /* SDUIRenderer */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = SDUIRenderer;
+		};
+		2921A0DA2E740FAA0015BC6F /* ScoreStripModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ScoreStripModule;
+		};
+		2921A0DC2E740FAA0015BC6F /* ShowcaseModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ShowcaseModule;
+		};
+		2921A0DE2E740FAA0015BC6F /* TableModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = TableModule;
+		};
 		29294D522E6887C70097FDAE /* ArticleModule */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = ArticleModule;
@@ -608,6 +698,38 @@
 			productName = ShowcaseModule;
 		};
 		29294D602E6887C70097FDAE /* TableModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = TableModule;
+		};
+		2976CCCB2E74302600758470 /* ArticleModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ArticleModule;
+		};
+		2976CCCD2E74302600758470 /* MultiTemplateModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = MultiTemplateModule;
+		};
+		2976CCCF2E74302600758470 /* PlayerCardModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = PlayerCardModule;
+		};
+		2976CCD12E74302600758470 /* ReelsModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ReelsModule;
+		};
+		2976CCD32E74302600758470 /* SDUIRenderer */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = SDUIRenderer;
+		};
+		2976CCD52E74302600758470 /* ScoreStripModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ScoreStripModule;
+		};
+		2976CCD72E74302600758470 /* ShowcaseModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = ShowcaseModule;
+		};
+		2976CCD92E74302600758470 /* TableModule */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = TableModule;
 		};
