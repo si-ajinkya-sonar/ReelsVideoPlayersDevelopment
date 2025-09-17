@@ -61,7 +61,7 @@ struct SplashView: View {
 //            RemoteImageView(imageURL: URL(string: "https://stg-lsg.sportz.io/static-assets/waf-images/da/39/f8/16-9/54T3FrTN0L.jpg"))
 //                .frame(width: 343, height: 343)
 //        }
-        .background(.red)
+//        .background(.red)
         .task {
             let success = await viewModel.updateSchema()
             isLoading = !success

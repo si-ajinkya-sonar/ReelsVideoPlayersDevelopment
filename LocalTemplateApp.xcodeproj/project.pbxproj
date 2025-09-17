@@ -57,6 +57,7 @@
 		EE6984FB2E33CF180018829B /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE6984FA2E33CF180018829B /* HomeView.swift */; };
 		EE92624D2E44B5CB00792D33 /* sduischema.json in Resources */ = {isa = PBXBuildFile; fileRef = EE92624C2E44B5CB00792D33 /* sduischema.json */; };
 		EE92624F2E44B5D200792D33 /* homepage-vertical.json in Resources */ = {isa = PBXBuildFile; fileRef = EE92624E2E44B5D200792D33 /* homepage-vertical.json */; };
+		EE976DB82E7AF00D009A4E4C /* sdui-schema-reels.json in Resources */ = {isa = PBXBuildFile; fileRef = EE976DB72E7AF00D009A4E4C /* sdui-schema-reels.json */; };
 		EE9A173D2E45EDD00057E01D /* ReelsContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9A173C2E45EDD00057E01D /* ReelsContentView.swift */; };
 		EEA658602E30A49000FD2ECE /* PhotosListing.json in Resources */ = {isa = PBXBuildFile; fileRef = EEA6585F2E30A49000FD2ECE /* PhotosListing.json */; };
 		EEA658622E30F65E00FD2ECE /* VideosListing.json in Resources */ = {isa = PBXBuildFile; fileRef = EEA658612E30F65E00FD2ECE /* VideosListing.json */; };
@@ -88,6 +89,7 @@
 		EE6984FA2E33CF180018829B /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		EE92624C2E44B5CB00792D33 /* sduischema.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sduischema.json; sourceTree = "<group>"; };
 		EE92624E2E44B5D200792D33 /* homepage-vertical.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "homepage-vertical.json"; sourceTree = "<group>"; };
+		EE976DB72E7AF00D009A4E4C /* sdui-schema-reels.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "sdui-schema-reels.json"; sourceTree = "<group>"; };
 		EE9A173C2E45EDD00057E01D /* ReelsContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReelsContentView.swift; sourceTree = "<group>"; };
 		EEA6585F2E30A49000FD2ECE /* PhotosListing.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PhotosListing.json; sourceTree = "<group>"; };
 		EEA658612E30F65E00FD2ECE /* VideosListing.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = VideosListing.json; sourceTree = "<group>"; };
@@ -206,6 +208,7 @@
 				EEC9C3E22E3242E900DD7096 /* Inter-Regular.ttf */,
 				EEC9C3E32E3242E900DD7096 /* Inter-SemiBold.ttf */,
 				EED0EF6F2E2A46D90003DF3A /* fontello.ttf */,
+				EE976DB72E7AF00D009A4E4C /* sdui-schema-reels.json */,
 				EE92624C2E44B5CB00792D33 /* sduischema.json */,
 				EE92624E2E44B5D200792D33 /* homepage-vertical.json */,
 				EEC4330F2E49AC4400D6F38F /* homepage-horizontal.json */,
@@ -384,6 +387,7 @@
 				EE92624F2E44B5D200792D33 /* homepage-vertical.json in Resources */,
 				EED0EF8D2E2A4BC70003DF3A /* page-schema.json in Resources */,
 				EED0EF802E2A46D90003DF3A /* sdui-schema.json in Resources */,
+				EE976DB82E7AF00D009A4E4C /* sdui-schema-reels.json in Resources */,
 				EED0EF812E2A46D90003DF3A /* Assets.xcassets in Resources */,
 				EEC9C3E42E3242E900DD7096 /* Inter-Medium.ttf in Resources */,
 				EEEF48892E38F70300070E0F /* PhotosDetails.json in Resources */,
