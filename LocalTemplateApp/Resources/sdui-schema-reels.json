@@ -4223,13 +4223,13 @@
                     "composition": [
                         {
                             "id": "59e7c6ff-5298-42e5-b241-2027b539bdea",
-                            "visibility": true,
-                            "component_type": "molecule"
+                            "component_type": "molecule",
+                            "visibility": true
                         },
                         {
                             "id": "7a0ace91-a262-4900-8501-15502096a9a2",
-                            "visibility": true,
-                            "component_type": "organism"
+                            "component_type": "organism",
+                            "visibility": true
                         }
                     ],
                     "action": null,
@@ -4240,7 +4240,7 @@
                     "name": "organism_reels_20250909",
                     "properties": {
                         "stack": "h",
-                        "position": "bottom_center",
+                        "position": "bottom",
                         "full_width": false
                     },
                     "styles": {
@@ -4273,13 +4273,13 @@
                     "composition": [
                         {
                             "id": "bedd07cf-5a51-4b50-b447-1229e6281822",
-                            "visibility": true,
-                            "component_type": "organism"
+                            "component_type": "organism",
+                            "visibility": true
                         },
                         {
                             "id": "91c96af2-10d2-445e-8613-618faa34e99e",
-                            "visibility": true,
-                            "component_type": "organism"
+                            "component_type": "organism",
+                            "visibility": true
                         }
                     ],
                     "action": null,
@@ -4296,7 +4296,7 @@
                     "styles": {
                         "gap": "",
                         "offset": {
-                            "top": 0,
+                            "top": 10,
                             "left": 0,
                             "right": 0,
                             "bottom": 0
@@ -4306,7 +4306,7 @@
                             "top": "",
                             "left": "",
                             "right": "",
-                            "bottom": ""
+                            "bottom": "spacing_4"
                         },
                         "gradient": "",
                         "border_color": "",
@@ -4333,8 +4333,8 @@
                         },
                         {
                             "id": "ed0c746b-e11d-49fe-9f87-628b4b90b7f8",
-                            "visibility": true,
-                            "component_type": "molecule"
+                            "component_type": "molecule",
+                            "visibility": true
                         }
                     ],
                     "action": null,
@@ -4346,12 +4346,12 @@
                     "properties": {
                         "stack": "v",
                         "position": "center",
-                        "full_width": false,
-                        "width_percentage": 30,
-                        "is_width_percentage": false,
-                        "width": 50
+                        "full_width": false
                     },
                     "styles": {
+                        "width_percentage": 30,
+                        "is_width_percentage": false,
+                        "width": 60,
                         "gap": "spacing_2",
                         "offset": {
                             "top": 0,
@@ -4364,7 +4364,7 @@
                             "top": "",
                             "left": "",
                             "right": "",
-                            "bottom": ""
+                            "bottom": "spacing_4"
                         },
                         "gradient": "",
                         "border_color": "",
@@ -4381,19 +4381,23 @@
                     "composition": [
                         {
                             "id": "6d4603e5-1213-4c45-b824-a7880f0b7b65",
-                            "component_type": "molecule"
+                            "component_type": "molecule",
+                            "visibility": true
                         },
                         {
                             "id": "4751413a-b748-418f-9e53-1d36560e8c1c",
-                            "component_type": "molecule"
+                            "component_type": "molecule",
+                            "visibility": true
                         },
                         {
                             "id": "2b3e243c-2687-46ed-bedb-8721f47b20b3",
-                            "component_type": "molecule"
+                            "component_type": "molecule",
+                            "visibility": true
                         },
                         {
                             "id": "4d557f9d-6a91-4baa-854a-95ee628ed721",
-                            "component_type": "molecule"
+                            "component_type": "molecule",
+                            "visibility": true
                         }
                     ],
                     "action": null,
@@ -9277,15 +9281,26 @@
                 },
                 {
                     "id": "6d4603e5-1213-4c45-b824-a7880f0b7b65",
-                    "name": "molecule_reel_action",
+                    "name": "molecule_reel_action_like",
                     "properties": {
                         "stack": "v",
                         "variant": "1",
                         "date_format": "DD MMM, YYYY",
                         "sub_variant": "center",
-                        "type": "like",
                         "time_format": "HH:mm",
-                        "group1_count": -1
+                        "group1_count": -1,
+                        "token_overrides": {
+                            "like": {
+                                "atom_button": {
+                                    "leading_icon": "icon_heart"
+                                }
+                            },
+                            "unlike": {
+                                "atom_button": {
+                                    "leading_icon": "icon_heart_fill"
+                                }
+                            }
+                        }
                     },
                     "styles": {
                         "gap": "spacing_1",
@@ -9297,10 +9312,10 @@
                         },
                         "shadow": "",
                         "padding": {
-                            "top": "spacing_2",
-                            "left": "spacing_2",
-                            "right": "spacing_2",
-                            "bottom": "spacing_2"
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
                         },
                         "gradient": "",
                         "border_color": "",
@@ -9333,13 +9348,12 @@
                 },
                 {
                     "id": "4751413a-b748-418f-9e53-1d36560e8c1c",
-                    "name": "molecule_reel_action",
+                    "name": "molecule_reel_action_comment",
                     "properties": {
                         "stack": "v",
                         "variant": "1",
                         "date_format": "DD MMM, YYYY",
                         "sub_variant": "center",
-                        "type": "comment",
                         "time_format": "HH:mm",
                         "group1_count": -1
                     },
@@ -9353,10 +9367,10 @@
                         },
                         "shadow": "",
                         "padding": {
-                            "top": "spacing_2",
-                            "left": "spacing_2",
-                            "right": "spacing_2",
-                            "bottom": "spacing_2"
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
                         },
                         "gradient": "",
                         "border_color": "",
@@ -9389,13 +9403,12 @@
                 },
                 {
                     "id": "2b3e243c-2687-46ed-bedb-8721f47b20b3",
-                    "name": "molecule_reel_action",
+                    "name": "molecule_reel_action_share",
                     "properties": {
                         "stack": "v",
                         "variant": "1",
                         "date_format": "DD MMM, YYYY",
                         "sub_variant": "center",
-                        "type": "share",
                         "time_format": "HH:mm",
                         "group1_count": -1
                     },
@@ -9409,10 +9422,10 @@
                         },
                         "shadow": "",
                         "padding": {
-                            "top": "spacing_2",
-                            "left": "spacing_2",
-                            "right": "spacing_2",
-                            "bottom": "spacing_2"
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
                         },
                         "gradient": "",
                         "border_color": "",
@@ -9445,15 +9458,26 @@
                 },
                 {
                     "id": "4d557f9d-6a91-4baa-854a-95ee628ed721",
-                    "name": "molecule_reel_action",
+                    "name": "molecule_reel_action_sound",
                     "properties": {
                         "stack": "v",
                         "variant": "1",
                         "date_format": "DD MMM, YYYY",
                         "sub_variant": "center",
-                        "type": "sound",
                         "time_format": "HH:mm",
-                        "group1_count": -1
+                        "group1_count": -1,
+                        "token_overrides": {
+                            "is_unmuted": {
+                                "atom_button": {
+                                    "leading_icon": "icon_speaker_on"
+                                }
+                            },
+                            "is_muted": {
+                                "atom_button": {
+                                    "leading_icon": "icon_speaker_off"
+                                }
+                            }
+                        }
                     },
                     "styles": {
                         "gap": "spacing_0",
@@ -9465,10 +9489,10 @@
                         },
                         "shadow": "",
                         "padding": {
-                            "top": "spacing_2",
-                            "left": "spacing_2",
-                            "right": "spacing_2",
-                            "bottom": "spacing_2"
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
                         },
                         "gradient": "",
                         "border_color": "",
@@ -11958,6 +11982,7 @@
                     "name": "atom_date",
                     "atom_type": "badge",
                     "gap": "",
+                    "size": "no_padding",
                     "tags": [ ],
                     "padding": {
                         "top": "",
@@ -11993,6 +12018,7 @@
                     "name": "atom_cateogry",
                     "atom_type": "badge",
                     "gap": "",
+                    "size": "medium",
                     "tags": [ ],
                     "padding": {
                         "top": "spacing_1",
@@ -12002,7 +12028,7 @@
                     },
                     "gradient": "",
                     "text_color": "text_alert_success",
-                    "typography": "badge_md",
+                    "typography": "badge_sm",
                     "visibility": false,
                     "sub_variant": "only_text",
                     "border_color": "",
@@ -12064,34 +12090,34 @@
                     "orientation": "horizontal",
                     "appearence": "ltr",
                     "base": {
-                        "background_color": "core_neu_100",
+                        "background_color": "color_prim_200",
                         "border_radius": {
-                            "top_left": "radius_md",
-                            "top_right": "radius_md",
                             "bottom_left": "radius_md",
-                            "bottom_right": "radius_md"
+                            "bottom_right": "radius_md",
+                            "top_left": "radius_md",
+                            "top_right": "radius_md"
                         },
-                        "border_width": "1",
-                        "border_color": "core_neu_900",
-                        "gradient": "gradient_prim",
+                        "border_width": "0",
+                        "border_color": "",
+                        "gradient": "",
                         "padding": {
-                            "top": "spacing_2",
-                            "bottom": "spacing_2",
-                            "left": "spacing_2",
-                            "right": "spacing_2"
+                            "top": "",
+                            "bottom": "",
+                            "left": "",
+                            "right": ""
                         }
                     },
                     "progress": {
-                        "background_color": "core_prim_500",
+                        "background_color": "color_prim_500",
                         "border_radius": {
-                            "top_left": "radius_md",
-                            "top_right": "radius_md",
                             "bottom_left": "radius_md",
-                            "bottom_right": "radius_md"
+                            "bottom_right": "radius_md",
+                            "top_left": "radius_md",
+                            "top_right": "radius_md"
                         },
-                        "border_width": "1",
-                        "border_color": "core_prim_900",
-                        "gradient": "gradient_prim",
+                        "border_width": "0",
+                        "border_color": "",
+                        "gradient": "",
                         "padding": {
                             "top": "spacing_2",
                             "bottom": "spacing_2",
@@ -12100,23 +12126,23 @@
                         }
                     },
                     "thumb": {
-                        "background_color": "core_prim_500",
+                        "background_color": "color_prim_900",
                         "border_radius": {
-                            "top_left": "radius_md",
-                            "top_right": "radius_md",
                             "bottom_left": "radius_md",
-                            "bottom_right": "radius_md"
+                            "bottom_right": "radius_md",
+                            "top_left": "radius_md",
+                            "top_right": "radius_md"
                         },
-                        "border_width": "1",
-                        "border_color": "core_prim_900",
-                        "gradient": "gradient_prim",
+                        "border_width": "0",
+                        "border_color": "color_error_900",
+                        "gradient": "",
                         "padding": {
                             "top": "spacing_2",
                             "bottom": "spacing_2",
                             "left": "spacing_2",
                             "right": "spacing_2"
                         },
-                        "width": 10,
+                        "width": 20,
                         "height": 10,
                         "visibility": true
                     }
@@ -12160,6 +12186,7 @@
                     "id": "132a4d7e-d933-440c-9615-ed54edbfac55",
                     "name": "atom_action_button_like",
                     "atom_type": "button",
+                    "size": "medium",
                     "gap": "",
                     "tags": [ ],
                     "padding": {
@@ -12169,7 +12196,7 @@
                         "bottom": "spacing_3"
                     },
                     "gradient": "",
-                    "text_color": "button_filled_style_2_text_icon_default",
+                    "text_color": "text_main_low",
                     "typography": "badge_md",
                     "visibility": false,
                     "sub_variant": "only_icon",
@@ -12184,9 +12211,9 @@
                     },
                     "trailing_icon": "",
                     "text_transform": "uppercase",
-                    "background_color": "button_filled_style_1_surface_default",
-                    "leading_icon_color": "button_filled_style_2_text_icon_default",
-                    "trailing_icon_color": "button_filled_style_2_text_icon_default",
+                    "background_color": "text_main_low",
+                    "leading_icon_color": "text_main_low",
+                    "trailing_icon_color": "text_main_low",
                     "leading_icon_typography": "DP_1",
                     "trailing_icon_typography": "DP_1",
                     "action": { }
@@ -12219,9 +12246,9 @@
                     },
                     "trailing_icon": "",
                     "text_transform": "uppercase",
-                    "background_color": "button_filled_style_1_surface_default",
-                    "leading_icon_color": "button_filled_style_2_text_icon_default",
-                    "trailing_icon_color": "button_filled_style_2_text_icon_default",
+                    "background_color": "text_main_low",
+                    "leading_icon_color": "text_main_low",
+                    "trailing_icon_color": "text_main_low",
                     "leading_icon_typography": "DP_1",
                     "trailing_icon_typography": "DP_1",
                     "action": { }
@@ -12254,9 +12281,9 @@
                     },
                     "trailing_icon": "",
                     "text_transform": "uppercase",
-                    "background_color": "button_filled_style_1_surface_default",
-                    "leading_icon_color": "button_filled_style_2_text_icon_default",
-                    "trailing_icon_color": "button_filled_style_2_text_icon_default",
+                    "background_color": "text_main_low",
+                    "leading_icon_color": "text_main_low",
+                    "trailing_icon_color": "text_main_low",
                     "leading_icon_typography": "DP_1",
                     "trailing_icon_typography": "DP_1",
                     "action": { }
@@ -12280,7 +12307,7 @@
                     "sub_variant": "only_icon",
                     "border_color": "",
                     "border_width": "0",
-                    "leading_icon": "icon_sound",
+                    "leading_icon": "icon_speaker_on",
                     "border_radius": {
                         "top_left": "radius_rounded",
                         "top_right": "radius_rounded",
@@ -12289,9 +12316,9 @@
                     },
                     "trailing_icon": "",
                     "text_transform": "uppercase",
-                    "background_color": "button_filled_style_1_surface_default",
-                    "leading_icon_color": "button_filled_style_2_text_icon_default",
-                    "trailing_icon_color": "button_filled_style_2_text_icon_default",
+                    "background_color": "text_main_low",
+                    "leading_icon_color": "text_main_low",
+                    "trailing_icon_color": "text_main_low",
                     "leading_icon_typography": "DP_1",
                     "trailing_icon_typography": "DP_1",
                     "action": { }
@@ -12791,7 +12818,7 @@
                         "text_main_medium": "#e4eaff",
                         "background_main_container": "#232a40",
                         "background_main_card": "#41485f",
-                        "text_main_low": "#c1c8e4",
+                        "text_main_low": "#f18900",
                         "text_main_disable": "#9ca2bd",
                         "text_prim_high": "#ffffff",
                         "text_prim_medium": "#e4eaff",
@@ -12827,7 +12854,6 @@
                         "text_alert_success": "#ffffff",
                         "border_main_invert": "#00071f",
                         "border_main_nue": "#ffffff",
-                        "button_filled_style_1_surface_default": "#f18900",
                         "button_outline_style_1_outline_default": "#f18900",
                         "button_filled_style_1_text_icon_disable": "#9ca2bd",
                         "button_filled_style_1_surface_hover": "#eb7900",
@@ -13005,7 +13031,7 @@
                         "text_main_medium": "#232a40",
                         "background_main_container": "#eff5ff",
                         "background_main_card": "#e4eaff",
-                        "text_main_low": "#545a72",
+                        "text_main_low": "#f18900",
                         "text_main_disable": "#c1c8e4",
                         "text_prim_high": "#ffffff",
                         "text_prim_medium": "#e4eaff",
@@ -13041,7 +13067,6 @@
                         "text_alert_success": "#ffffff",
                         "border_main_invert": "#00071f",
                         "border_main_nue": "#ffffff",
-                        "button_filled_style_1_surface_default": "#f18900",
                         "button_outline_style_1_outline_default": "#f18900",
                         "button_filled_style_1_text_icon_disable": "#9ca2bd",
                         "button_filled_style_1_surface_hover": "#eb7900",
@@ -13945,7 +13970,7 @@
                         "text_main_medium": "#e4eaff",
                         "background_main_container": "#232a40",
                         "background_main_card": "#41485f",
-                        "text_main_low": "#c1c8e4",
+                        "text_main_low": "#f18900",
                         "text_main_disable": "#9ca2bd",
                         "text_prim_high": "#ffffff",
                         "text_prim_medium": "#e4eaff",
@@ -13981,7 +14006,6 @@
                         "text_alert_success": "#ffffff",
                         "border_main_invert": "#00071f",
                         "border_main_nue": "#ffffff",
-                        "button_filled_style_1_surface_default": "#f18900",
                         "button_outline_style_1_outline_default": "#f18900",
                         "button_filled_style_1_text_icon_disable": "#9ca2bd",
                         "button_filled_style_1_surface_hover": "#eb7900",
@@ -14159,7 +14183,7 @@
                         "text_main_medium": "#232a40",
                         "background_main_container": "#eff5ff",
                         "background_main_card": "#e4eaff",
-                        "text_main_low": "#545a72",
+                        "text_main_low": "#f18900",
                         "text_main_disable": "#c1c8e4",
                         "text_prim_high": "#ffffff",
                         "text_prim_medium": "#e4eaff",
@@ -14195,7 +14219,6 @@
                         "text_alert_success": "#ffffff",
                         "border_main_invert": "#00071f",
                         "border_main_nue": "#ffffff",
-                        "button_filled_style_1_surface_default": "#f18900",
                         "button_outline_style_1_outline_default": "#f18900",
                         "button_filled_style_1_text_icon_disable": "#9ca2bd",
                         "button_filled_style_1_surface_hover": "#eb7900",

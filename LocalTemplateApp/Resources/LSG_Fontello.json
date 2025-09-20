@@ -14,7 +14,7 @@
   "icon_home": "0xe80c",
   "icon_insta": "0xe80d",
   "icon_linkedin": "0xe80e",
-  "icon_matches": "0xe80f",
+  "icon_date": "0xe80f",
   "icon_more": "0xe810",
   "icon_news": "0xe811",
   "icon_notification": "0xe812",
@@ -37,6 +37,12 @@
   "icon_match": "0xe825",
   "icon_time": "0xe826",
   "icon_captain": "0xe837",
-  "icon_versus": "0xe828",
-  "icon_play": "0xe875"
+  "icon_vs": "0xe838",
+  "icon_play": "0xe875",
+  "icon_comment": "0xe8bf",
+  "icon_heart": "0xe8c0",
+  "icon_heart_fill": "0xe8c1",
+  "icon_share_nodes": "0xe8c2",
+  "icon_speaker_off": "0xe8c3",
+  "icon_speaker_on": "0xe8c4"
 }
